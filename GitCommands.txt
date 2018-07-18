@@ -1,0 +1,7 @@
+git remote：リモートリポジトリの名称一覧を表示
+git remote -v：リモートリポジトリの詳細一覧を表示
+git remote add [name] [url]：リモートリポジトリを追加
+git remote rm [name]：リモートリポジトリを削除
+1行追加　2018/07/18
+さらに1行追加
+これをGitにpushしたい
